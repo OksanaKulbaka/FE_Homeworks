@@ -21,7 +21,8 @@ Format: ![alt]
 
 * Hobbies: Crossfit :basketball:, singing :microphone:, watching movies, Youtube, reading, card games :diamonds:, international communication and having a rest with my friends
 
-> Motto
+> Motto:
+> 
 > _It always seems impossible until it’s done.
 > You can do it._
 >
