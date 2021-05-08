@@ -1,13 +1,13 @@
 # Task 1. About me #
 
-! [myimage] (/Documents/webacademy/myimage.heic)
+! [myimage.heic] (/Users/macbookpro/Documents/myimage.heic)
 Format: ![alt]
 
 ## __Oksana Kulbaka__ ##
 
-* Social Net Profile: _<https://www.facebook.com/Ksusha.Viktorovna1996>_ - automatic!
+* Social Net Profile: _<https://www.facebook.com/Ksusha.Viktorovna1996>_
 
-* 25 y.o.
+* Age: 25 y.o.
 
 * Permanent residency: Kyiv
 
@@ -21,8 +21,7 @@ Format: ![alt]
 
 * Hobbies: Crossfit :basketball:, singing :microphone:, watching movies, Youtube, reading, card games :diamonds:, international communication and having a rest with my friends
 
-### Motto ###
-
+> Motto
 > _It always seems impossible until it’s done.
 > You can do it._
 >
