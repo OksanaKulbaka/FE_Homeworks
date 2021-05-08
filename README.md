@@ -1,33 +1,28 @@
-# Homework after Lesson 1 
+# Task 1. About me #
 
-## 1. Установлен и настроен гит
+! [myimage] (/Documents/webacademy/myimage.heic)
+Format: ![alt]
 
-* Проработан Git через консоль
-* Установлена консоль под Linux и Mac
-* Установлен Git под Windows
-* Windows: Git Bash, Powershell
+## __Oksana Kulbaka__ ##
 
-## 2. На мой компьютер установлены следующие программы:
+* Social Net Profile: _<https://www.facebook.com/Ksusha.Viktorovna1996>_ - automatic!
 
-* NodeJS
-* Git
+* 25 y.o.
 
-## 3. Подготовлен редактор кода:
+* Permanent residency: Kyiv
 
-* Visual Studio Code
-* Обзор Visual Studio Code
+* E-mail Address: _oksana.v.kulbaka@gmail.com_
 
-    ### 3.1. Intro
+* Phone numbers: ~~+38(095)9379992~~ +38(095)17-18-936
 
-    ### 3.2. Background
+* Education: Donetsk National University, faculty of fine arts - German and English transaltor
 
-    ### 3.3. Team Composition
+* Position: Customer Support Specialist at Aspire Global LLC
 
-    #### 3.3.1. Example1
+* Hobbies: Crossfit :basketball:, singing :microphone:, watching movies, Youtube, reading, card games :diamonds:, international communication and having a rest with my friends
 
-    #### 3.3.2. Example2
+### Motto ###
 
-    #### 3.3.3. Example3 
-
-
-
+> _It always seems impossible until it’s done.
+> You can do it._
+>
